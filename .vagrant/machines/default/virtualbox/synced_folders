@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/tna":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/tna","hostpath":"D:/xampp/htdocs/sdm/tna","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/xampp/htdocs/sdm/tna","disabled":false,"__vagrantfile":true}}}
